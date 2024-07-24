@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MedAssist</string>
+    <string name="enter_your_cause">Enter your cause</string>
+    <string name="enter_your_symptoms">Enter your symptoms</string>
+</resources>
