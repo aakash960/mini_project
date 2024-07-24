@@ -1,5 +1,5 @@
 package com.example.medassist;
 
 public class BuildConfig {
-    static String apiKey="AIzaSyAV1XJpFWbdkURobp3uDocj3fdZH9JSMpc";
+    static String apiKey="Your Google gemini API key";
 }
